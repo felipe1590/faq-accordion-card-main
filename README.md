@@ -32,8 +32,8 @@ Os usuários devem ser capazes de:
 
 ### Links
 
-- URL da solução: (https://github.com/felipe1590/3-column-preview-card)
-- URL do site ao vivo: (https://felipe1590.github.io/3-column-preview-card/)
+- URL da solução: (https://github.com/felipe1590/faq-accordion-card-main)
+- URL do site ao vivo: (https://felipe1590.github.io/faq-accordion-card-main/)
 
 ## Meu processo
 
